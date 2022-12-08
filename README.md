@@ -3,7 +3,8 @@
 ## version
 :melodic 
 
-mobile robot(diff_wheel) moving test with waypoint
+## notion 
+- mobile robot(diff_wheel) moving test with waypoint
 
 # source : 
  https://automaticaddison.com/how-to-move-the-turtlesim-robot-to-goal-locations-ros/

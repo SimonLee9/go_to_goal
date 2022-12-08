@@ -9,10 +9,10 @@ source : https://automaticaddison.com/how-to-move-the-turtlesim-robot-to-goal-lo
 <use> -----------------------------------------------------------------------------------------------------
 
 terminal 1.   
-  roslaunch go_to_goal turtlesim_waypoint_follower.launch
+ roslaunch go_to_goal turtlesim_waypoint_follower.launch
   
 terminal 2.
-  rosrun go_to_goal go_to_goal_position
+ rosrun go_to_goal go_to_goal_position
 ------------------------------------------------------------------------------------------------------------
 
 <use 2> ----------------------------------------------------------------------------------------------------

@@ -9,7 +9,7 @@ mobile robot(diff_wheel) moving test with waypoint
  https://automaticaddison.com/how-to-move-the-turtlesim-robot-to-goal-locations-ros/
  
 
-## <use> 
+## <use 1> 
 
 terminal 1.   
 - roslaunch go_to_goal turtlesim_waypoint_follower.launch

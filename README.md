@@ -30,8 +30,7 @@ terminal 3.
 - rosrun go_to_goal go_to_goal_position
   
   
-  
-  
+---
   ********************************************************************'
   
   sudo chmod +x testbot_waypoint_follower.launch

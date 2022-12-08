@@ -210,5 +210,11 @@ LINK_DIRECTORIES(/usr/local/lib)
 add_executable(go_to_goal_position src/go_to_goal_position.cpp)
 target_link_libraries(go_to_goal_position ${catkin_LIBRARIES})
 
+add_executable(go_to_goal_position_testbot src/go_to_goal_position_testbot.cpp)
+target_link_libraries(go_to_goal_position_testbot ${catkin_LIBRARIES})
+
 add_executable(waypoint_publisher src/waypoint_publisher.cpp)
 target_link_libraries(waypoint_publisher ${catkin_LIBRARIES})
+
+add_executable(waypoint_publisher_testbot src/waypoint_publisher_testbot.cpp)
+target_link_libraries(waypoint_publisher_testbot ${catkin_LIBRARIES})

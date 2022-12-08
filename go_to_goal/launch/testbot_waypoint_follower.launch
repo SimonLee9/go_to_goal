@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="go_to_goal" type="waypoint_publisher_testbot" name="waypoint_publisher_testbot" output="screen" />
+</launch>
